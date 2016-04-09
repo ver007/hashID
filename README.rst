@@ -1,4 +1,4 @@
-hashID \| hash-identifier
+密文识别 正则加特征 hashID \| hash-identifier
 =========================
 
 Identify the different types of hashes used to encrypt data and especially passwords.
